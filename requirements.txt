@@ -1,0 +1,20 @@
+# Core (required)
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+joblib>=1.3
+scipy>=1.11
+spacy>=3.7
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pydantic>=2.5
+streamlit>=1.36
+plotly>=5.24
+python-dotenv>=1.0
+httpx>=0.27
+pytest>=8.0
+
+# Optional (the app runs without these; see README)
+# sentence-transformers>=2.7   # semantic duplicate detection (downloads a model once)
+# transformers>=4.40 torch     # zero-shot transformer classifier

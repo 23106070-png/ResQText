@@ -1,0 +1,339 @@
+text_a,text_b,location_a,location_b,is_duplicate,pair_type,split
+"Elderly couple trapped in their house at Ulhasnagar, they cannot walk. Need a rescue team.","Repeat report: Elderly couplle trapped in thir house at Ulhasnagar, they cannot walk. Need a rescue team.",Ulhasnagar,Ulhasnagar,1,easy_positive,train
+"Elderly couple trapped in their house at Ulhasnagar, they cannot walk. Need a rescue team.","Elderly couple trapped in their house at Andheri, they cannot walk. Need a rescue team.",Ulhasnagar,Andheri,0,same_text_other_location,train
+"Elderly couple trapped in their house at Ulhasnagar, they cannot walk. Need a rescue team.","Water pipeline burst in Ulhasnagar, the road caved in.",Ulhasnagar,Ulhasnagar,0,other_need_same_location,train
+3 people stuck on the roof of a building near Badlapur. Need rescue urgently.,Rpeat report: 3 people stck on the roof of a building near Badlapur. Need resscue urgently.,Badlapur,Badlapur,1,easy_positive,train
+3 people stuck on the roof of a building near Badlapur. Need rescue urgently.,3 people stuck on the roof of a building near Dombivli. Need rescue urgently.,Badlapur,Dombivli,0,same_text_other_location,train
+3 people stuck on the roof of a building near Badlapur. Need rescue urgently.,"Elderly man had a heart attack in Badlapur, the ambulance cannot get through the water.",Badlapur,Badlapur,0,other_need_same_location,train
+"Rescue needed at Kurla, 6 persons stuck in a car surrounded by water.","Repeat report: Rescue needed at Kurla, 6 persons stuck in a car surrounded by water.",Kurla,Kurla,1,easy_positive,train
+"Rescue needed at Kurla, 6 persons stuck in a car surrounded by water.","Rescue needed at Mumbra, 6 persons stuck in a car surrounded by water.",Kurla,Mumbra,0,same_text_other_location,train
+"Rescue needed at Kurla, 6 persons stuck in a car surrounded by water.","Water level near the Kurla bridge is rising slowly, sharing for awareness.",Kurla,Kurla,0,other_need_same_location,train
+"Our family is stranded in Andheri, the water has reached the second floor. Please help us get out.","Repeat report: Our fammily is strannded in Andheri, the water has reaached the second floor. Plese help us get out.",Andheri,Andheri,1,easy_positive,train
+"Our family is stranded in Andheri, the water has reached the second floor. Please help us get out.","Our family is stranded in Panvel, the water has reached the second floor. Please help us get out.",Andheri,Panvel,0,same_text_other_location,train
+"Our family is stranded in Andheri, the water has reached the second floor. Please help us get out.",12 people injured after a wall collapsed in Andheri. Need doctors and first aid.,Andheri,Andheri,0,other_need_same_location,train
+"We are trapped on the first floor in Thane. Water is rising, please send a boat.","Repeat report: We are trappd on the first floor in Thane. Water is rising, please send a boat.",Thane,Thane,1,easy_positive,train
+"We are trapped on the first floor in Thane. Water is rising, please send a boat.","We are trapped on the first floor in Vashi. Water is rising, please send a boat.",Thane,Vashi,0,same_text_other_location,train
+"We are trapped on the first floor in Thane. Water is rising, please send a boat.","Patient on oxygen support at Thane, the cylinder will finish soon. Urgent.",Thane,Thane,0,other_need_same_location,train
+"We are trapped on the first floor in Kurla. Water is rising, please send a boat.","Repeat report: We are trpped on the first floor in Kurla. Wter is rising, please send a boat.",Kurla,Kurla,1,easy_positive,train
+"We are trapped on the first floor in Kurla. Water is rising, please send a boat.","We are trapped on the first floor in Dadar. Water is rising, please send a boat.",Kurla,Dadar,0,same_text_other_location,train
+"We are trapped on the first floor in Kurla. Water is rising, please send a boat.","The school in Kurla is being used as a shelter, it is full. Need more space.",Kurla,Kurla,0,other_need_same_location,train
+A pregnant woman in Powai is in labour and we cannot reach any hospital. Need an ambulance.,Repeat report: A pregnant woman in Powai is in labour and we cannot reach any hospital. Need an ambulance.,Powai,Powai,1,easy_positive,train
+A pregnant woman in Powai is in labour and we cannot reach any hospital. Need an ambulance.,A pregnant woman in Vashi is in labour and we cannot reach any hospital. Need an ambulance.,Powai,Vashi,0,same_text_other_location,train
+A pregnant woman in Powai is in labour and we cannot reach any hospital. Need an ambulance.,"Food supplies finished in our building at Powai, 8 elderly residents need meals.",Powai,Powai,0,other_need_same_location,train
+12 people injured after a wall collapsed in Badlapur. Need doctors and first aid.,Reppeat report: 12 people injured ater a wall colapsed in Badlapur. Need doctors and first aid.,Badlapur,Badlapur,1,easy_positive,train
+12 people injured after a wall collapsed in Badlapur. Need doctors and first aid.,12 people injured after a wall collapsed in Dombivli. Need doctors and first aid.,Badlapur,Dombivli,0,same_text_other_location,train
+12 people injured after a wall collapsed in Badlapur. Need doctors and first aid.,"Evacuation needed for low-lying houses in Badlapur, water is entering.",Badlapur,Badlapur,0,other_need_same_location,train
+A pregnant woman in Bhandup is in labour and we cannot reach any hospital. Need an ambulance.,Repeat report: A pregnant woman in Bhandup is in labour and we cannot rech any hospital. Need an ambulance.,Bhandup,Bhandup,1,easy_positive,train
+A pregnant woman in Bhandup is in labour and we cannot reach any hospital. Need an ambulance.,A pregnant woman in Kurla is in labour and we cannot reach any hospital. Need an ambulance.,Bhandup,Kurla,0,same_text_other_location,train
+A pregnant woman in Bhandup is in labour and we cannot reach any hospital. Need an ambulance.,"We are trapped on the first floor in Bhandup. Water is rising, please send a boat.",Bhandup,Bhandup,0,other_need_same_location,train
+My father needs insulin and we have run out. We are in Kalyan.,Reppeat report: My father needs insulin and we have run out. We are in Kalyan.,Kalyan,Kalyan,1,easy_positive,train
+My father needs insulin and we have run out. We are in Kalyan.,My father needs insulin and we have run out. We are in Badlapur.,Kalyan,Badlapur,0,same_text_other_location,train
+My father needs insulin and we have run out. We are in Kalyan.,"Please send bottled water and biscuits to Kalyan, 3 people are starving.",Kalyan,Kalyan,0,other_need_same_location,train
+"Patient on oxygen support at Dadar, the cylinder will finish soon. Urgent.","Rpeat report: Patient on oxygen support at Dadar, the cyliner will finnish soon. Urgent.",Dadar,Dadar,1,easy_positive,train
+"Patient on oxygen support at Dadar, the cylinder will finish soon. Urgent.","Patient on oxygen support at Sion, the cylinder will finish soon. Urgent.",Dadar,Sion,0,same_text_other_location,train
+"Patient on oxygen support at Dadar, the cylinder will finish soon. Urgent.",40 families lost their homes in Dadar and need a place to stay tonight.,Dadar,Dadar,0,other_need_same_location,train
+"Patient on oxygen support at Thane, the cylinder will finish soon. Urgent.","Repet report: Ptient on oxygen support at Thane, the cylinder will finish soon. Urgent.",Thane,Thane,1,easy_positive,train
+"Patient on oxygen support at Thane, the cylinder will finish soon. Urgent.","Patient on oxygen support at Vashi, the cylinder will finish soon. Urgent.",Thane,Vashi,0,same_text_other_location,train
+"Patient on oxygen support at Thane, the cylinder will finish soon. Urgent.",Heavy rain continues in Thane since this morning.,Thane,Thane,0,other_need_same_location,train
+"Please send bottled water and biscuits to Mumbra, 15 people are starving.","Rpeat report: Please send bottled water and biscuits to Mumbra, 15 people are starving.",Mumbra,Mumbra,1,easy_positive,train
+"Please send bottled water and biscuits to Mumbra, 15 people are starving.","Please send bottled water and biscuits to Chembur, 15 people are starving.",Mumbra,Chembur,0,same_text_other_location,train
+"Please send bottled water and biscuits to Mumbra, 15 people are starving.","Our family is stranded in Mumbra, the water has reached the second floor. Please help us get out.",Mumbra,Mumbra,0,other_need_same_location,train
+"Food supplies finished in our building at Badlapur, 12 elderly residents need meals.","Repeeat report: Food supplies finished in our building at Badlapur, 12 elderly residdents need meals.",Badlapur,Badlapur,1,easy_positive,train
+"Food supplies finished in our building at Badlapur, 12 elderly residents need meals.","Food supplies finished in our building at Powai, 12 elderly residents need meals.",Badlapur,Powai,0,same_text_other_location,train
+"Food supplies finished in our building at Badlapur, 12 elderly residents need meals.","Patient on oxygen support at Badlapur, the cylinder will finish soon. Urgent.",Badlapur,Badlapur,0,other_need_same_location,train
+"Children are hungry in Powai, we need rice and milk.","Repeat report: Children are hungry in Powai, we need rice and milk.",Powai,Powai,1,easy_positive,train
+"Children are hungry in Powai, we need rice and milk.","Children are hungry in Mumbra, we need rice and milk.",Powai,Mumbra,0,same_text_other_location,train
+"Children are hungry in Powai, we need rice and milk.","Please open a relief camp near Powai, people are sleeping on the road.",Powai,Powai,0,other_need_same_location,train
+"Clean water is not available at Kurla, tap water is contaminated.","Repeat report: Clean water is not available at Kurla, tap water is contaminated.",Kurla,Kurla,1,easy_positive,train
+"Clean water is not available at Kurla, tap water is contaminated.","Clean water is not available at Dombivli, tap water is contaminated.",Kurla,Dombivli,0,same_text_other_location,train
+"Clean water is not available at Kurla, tap water is contaminated.",3 families lost their homes in Kurla and need a place to stay tonight.,Kurla,Kurla,0,other_need_same_location,train
+"Please send bottled water and biscuits to Kalwa, 20 people are starving.","Repeat report: Please send bottled water and biscuits to Kalwa, 20 peole are starving.",Kalwa,Kalwa,1,easy_positive,train
+"Please send bottled water and biscuits to Kalwa, 20 people are starving.","Please send bottled water and biscuits to Vikhroli, 20 people are starving.",Kalwa,Vikhroli,0,same_text_other_location,train
+"Please send bottled water and biscuits to Kalwa, 20 people are starving.","Rescue needed at Kalwa, five persons stuck in a car surrounded by water.",Kalwa,Kalwa,0,other_need_same_location,train
+No drinking water since 6 pm in Ulhasnagar. two families are thirsty.,Repeat report: No drining water since 6 pm in Ulhasnagar. two families are thirsty.,Ulhasnagar,Ulhasnagar,1,easy_positive,train
+No drinking water since 6 pm in Ulhasnagar. two families are thirsty.,No drinking water since 6 pm in Kalwa. two families are thirsty.,Ulhasnagar,Kalwa,0,same_text_other_location,train
+No drinking water since 6 pm in Ulhasnagar. two families are thirsty.,20 people injured after a wall collapsed in Ulhasnagar. Need doctors and first aid.,Ulhasnagar,Ulhasnagar,0,other_need_same_location,train
+"Evacuation needed for low-lying houses in Kalyan, water is entering.","Repeat report: Evacation needed for low-lying houses in Kalyan, waer is entering.",Kalyan,Kalyan,1,easy_positive,train
+"Evacuation needed for low-lying houses in Kalyan, water is entering.","Evacuation needed for low-lying houses in Thane, water is entering.",Kalyan,Thane,0,same_text_other_location,train
+"Evacuation needed for low-lying houses in Kalyan, water is entering.","Mobile network is down in Kalyan, towers damaged.",Kalyan,Kalyan,0,other_need_same_location,train
+"Evacuation needed for low-lying houses in Sion, water is entering.","Repeat report: Evacuation needed for low-lying houses in Sion, water is entering.",Sion,Sion,1,easy_positive,train
+"Evacuation needed for low-lying houses in Sion, water is entering.","Evacuation needed for low-lying houses in Mulund, water is entering.",Sion,Mulund,0,same_text_other_location,train
+"Evacuation needed for low-lying houses in Sion, water is entering.",6 people injured after a wall collapsed in Sion. Need doctors and first aid.,Sion,Sion,0,other_need_same_location,train
+"We need blankets and tents at Ulhasnagar, it is cold and raining.","Repeat report: We need blankets and tents at Ulhasnagar, it is cold and raining.",Ulhasnagar,Ulhasnagar,1,easy_positive,train
+"We need blankets and tents at Ulhasnagar, it is cold and raining.","We need blankets and tents at Mumbra, it is cold and raining.",Ulhasnagar,Mumbra,0,same_text_other_location,train
+"We need blankets and tents at Ulhasnagar, it is cold and raining.","Elderly couple trapped in their house at Ulhasnagar, they cannot walk. Need a rescue team.",Ulhasnagar,Ulhasnagar,0,other_need_same_location,train
+"The school in Kurla is being used as a shelter, it is full. Need more space.","Repeat report: The school in Kurla is beig used as a shelter, it is full. Need more space.",Kurla,Kurla,1,easy_positive,train
+"The school in Kurla is being used as a shelter, it is full. Need more space.","The school in Bhandup is being used as a shelter, it is full. Need more space.",Kurla,Bhandup,0,same_text_other_location,train
+"The school in Kurla is being used as a shelter, it is full. Need more space.","No electricity in Kurla since 2 pm, power lines fell.",Kurla,Kurla,0,other_need_same_location,train
+"Evacuation needed for low-lying houses in Panvel, water is entering.","Repeat report: Evacation needed for low-lying houses in Panvel, water is entering.",Panvel,Panvel,1,easy_positive,train
+"Evacuation needed for low-lying houses in Panvel, water is entering.","Evacuation needed for low-lying houses in Vikhroli, water is entering.",Panvel,Vikhroli,0,same_text_other_location,train
+"Evacuation needed for low-lying houses in Panvel, water is entering.",Volunteers are gathering at Panvel to help with distribution. Contact the coordinator.,Panvel,Panvel,0,other_need_same_location,train
+"We need blankets and tents at Andheri, it is cold and raining.","Repeat report: We need blankeets and tents at Andheri, it is cold and raining.",Andheri,Andheri,1,easy_positive,train
+"We need blankets and tents at Andheri, it is cold and raining.","We need blankets and tents at Powai, it is cold and raining.",Andheri,Powai,0,same_text_other_location,train
+"We need blankets and tents at Andheri, it is cold and raining.","Mobile network is down in Andheri, towers damaged.",Andheri,Andheri,0,other_need_same_location,train
+"The bridge near Badlapur has collapsed, the road is blocked.","Repeat report: The bridgge near Badlapur has collapsed, the road is blocked.",Badlapur,Badlapur,1,easy_positive,train
+"The bridge near Badlapur has collapsed, the road is blocked.","The bridge near Mulund has collapsed, the road is blocked.",Badlapur,Mulund,0,same_text_other_location,train
+"The bridge near Badlapur has collapsed, the road is blocked.",8 families lost their homes in Badlapur and need a place to stay tonight.,Badlapur,Badlapur,0,other_need_same_location,train
+"Mobile network is down in Panvel, towers damaged.","Repeat report: Mobile netwoork is down in Panvel, towers damaged.",Panvel,Panvel,1,easy_positive,train
+"Mobile network is down in Panvel, towers damaged.","Mobile network is down in Kalyan, towers damaged.",Panvel,Kalyan,0,same_text_other_location,train
+"Mobile network is down in Panvel, towers damaged.","The flood relief helpline number is active, please share.",Panvel,Panvel,0,other_need_same_location,train
+Landslide blocked the highway near Badlapur.,Rpeat report: Laandslide blocked the highway near Badlapur.,Badlapur,Badlapur,1,easy_positive,train
+Landslide blocked the highway near Badlapur.,Landslide blocked the highway near Dombivli.,Badlapur,Dombivli,0,same_text_other_location,train
+Landslide blocked the highway near Badlapur.,"Elderly couple trapped in their house at Badlapur, they cannot walk. Need a rescue team.",Badlapur,Badlapur,0,other_need_same_location,train
+"Mobile network is down in Badlapur, towers damaged.","Repet report: Mobile network is down in Badlapur, towers damaged.",Badlapur,Badlapur,1,easy_positive,train
+"Mobile network is down in Badlapur, towers damaged.","Mobile network is down in Ulhasnagar, towers damaged.",Badlapur,Ulhasnagar,0,same_text_other_location,train
+"Mobile network is down in Badlapur, towers damaged.","Elderly man had a heart attack in Badlapur, the ambulance cannot get through the water.",Badlapur,Badlapur,0,other_need_same_location,train
+"No electricity in Kalyan since midnight, power lines fell.","Repeat report: No electricity in Kalyan since midnight, power lines fell.",Kalyan,Kalyan,1,easy_positive,train
+"No electricity in Kalyan since midnight, power lines fell.","No electricity in Sion since midnight, power lines fell.",Kalyan,Sion,0,same_text_other_location,train
+"No electricity in Kalyan since midnight, power lines fell.","The flood relief helpline number is active, please share.",Kalyan,Kalyan,0,other_need_same_location,train
+"No electricity in Mulund since yesterday, power lines fell.","Rpeat report: No electriccity in Mulund since yesterday, power lines fell.",Mulund,Mulund,1,easy_positive,train
+"No electricity in Mulund since yesterday, power lines fell.","No electricity in Bhandup since yesterday, power lines fell.",Mulund,Bhandup,0,same_text_other_location,train
+"No electricity in Mulund since yesterday, power lines fell.","Child has high fever and is vomiting, need a doctor in Mulund.",Mulund,Mulund,0,other_need_same_location,train
+"Water level near the Kalyan bridge is rising slowly, sharing for awareness.","Repeat report: Water level near the Kalyan bride is riing slowly, sharring for awareness.",Kalyan,Kalyan,1,easy_positive,train
+"Water level near the Kalyan bridge is rising slowly, sharing for awareness.","Water level near the Mulund bridge is rising slowly, sharing for awareness.",Kalyan,Mulund,0,same_text_other_location,train
+"Water level near the Kalyan bridge is rising slowly, sharing for awareness.","The bridge near Kalyan has collapsed, the road is blocked.",Kalyan,Kalyan,0,other_need_same_location,train
+Heavy rain continues in Mumbra since last night.,Repeat report: Heavy rain continues in Mumbra since last night.,Mumbra,Mumbra,1,easy_positive,train
+Heavy rain continues in Mumbra since last night.,Heavy rain continues in Kalwa since last night.,Mumbra,Kalwa,0,same_text_other_location,train
+Heavy rain continues in Mumbra since last night.,6 people injured after a wall collapsed in Mumbra. Need doctors and first aid.,Mumbra,Mumbra,0,other_need_same_location,train
+"The flood relief helpline number is active, please share.","Repeat report: The food relieef helpliine number is active, please share.",Dadar,Dadar,1,easy_positive,train
+"The flood relief helpline number is active, please share.","The flood relief helpline number is active, please share.",Dadar,Mulund,0,same_text_other_location,train
+"The flood relief helpline number is active, please share.","Patient on oxygen support at Dadar, the cylinder will finish soon. Urgent.",Dadar,Dadar,0,other_need_same_location,train
+Volunteers are gathering at Dadar to help with distribution. Contact the coordinator.,Repeat report: Volunteers are gatering at Daddar to help with distribution. Contact the coordinator.,Dadar,Dadar,1,easy_positive,train
+Volunteers are gathering at Dadar to help with distribution. Contact the coordinator.,Volunteers are gathering at Kalwa to help with distribution. Contact the coordinator.,Dadar,Kalwa,0,same_text_other_location,train
+Volunteers are gathering at Dadar to help with distribution. Contact the coordinator.,My father needs insulin and we have run out. We are in Dadar.,Dadar,Dadar,0,other_need_same_location,train
+Is the road to Andheri open for traffic?,Repeat report: Is the road to Andheri open for traffic?,Andheri,Andheri,1,easy_positive,train
+Is the road to Andheri open for traffic?,Is the road to Kalyan open for traffic?,Andheri,Kalyan,0,same_text_other_location,train
+Is the road to Andheri open for traffic?,"Elderly man had a heart attack in Andheri, the ambulance cannot get through the water.",Andheri,Andheri,0,other_need_same_location,train
+Volunteers are gathering at Thane to help with distribution. Contact the coordinator.,Reeat report: Volunteers are gatthering at Thne to help with distribution. Contact the coordinator.,Thane,Thane,1,easy_positive,train
+Volunteers are gathering at Thane to help with distribution. Contact the coordinator.,Volunteers are gathering at Bhiwandi to help with distribution. Contact the coordinator.,Thane,Bhiwandi,0,same_text_other_location,train
+Volunteers are gathering at Thane to help with distribution. Contact the coordinator.,"Mobile network is down in Thane, towers damaged.",Thane,Thane,0,other_need_same_location,train
+"Boat needed in Panvel, five villagers stuck on the terrace since midnight.","Repeat report: Boat needed in Panvel, five vilagers stuck on the terrace since midnight.",Panvel,Panvel,1,easy_positive,val
+"Boat needed in Panvel, five villagers stuck on the terrace since midnight.","Boat needed in Kalwa, five villagers stuck on the terrace since midnight.",Panvel,Kalwa,0,same_text_other_location,val
+"Boat needed in Panvel, five villagers stuck on the terrace since midnight.",Drainage overflowed and the underpass at Panvel is completely flooded.,Panvel,Panvel,0,other_need_same_location,val
+Someone is drowning near the river bank at Badlapur. Send NDRF immediately.,Repeat report: Someone is drowning near the river bank at Badlapur. Send NDRF immediately.,Badlapur,Badlapur,1,easy_positive,val
+Someone is drowning near the river bank at Badlapur. Send NDRF immediately.,Someone is drowning near the river bank at Chembur. Send NDRF immediately.,Badlapur,Chembur,0,same_text_other_location,val
+Someone is drowning near the river bank at Badlapur. Send NDRF immediately.,We need medicines for diabetes and blood pressure at the Badlapur relief point.,Badlapur,Badlapur,0,other_need_same_location,val
+"Boat needed in Vikhroli, 6 villagers stuck on the terrace since 2 pm.","Repeat report: Boat needed in Vikhroli, 6 villagers stucck on the terace since 2 pm.",Vikhroli,Vikhroli,1,easy_positive,val
+"Boat needed in Vikhroli, 6 villagers stuck on the terrace since 2 pm.","Boat needed in Kurla, 6 villagers stuck on the terrace since 2 pm.",Vikhroli,Kurla,0,same_text_other_location,val
+"Boat needed in Vikhroli, 6 villagers stuck on the terrace since 2 pm.",We need medicines for diabetes and blood pressure at the Vikhroli relief point.,Vikhroli,Vikhroli,0,other_need_same_location,val
+"Boat needed in Badlapur, five villagers stuck on the terrace since 6 pm.","Repeat report: Boat needed in Badlapur, five villagers stuk on the terrace sice 6 pm.",Badlapur,Badlapur,1,easy_positive,val
+"Boat needed in Badlapur, five villagers stuck on the terrace since 6 pm.","Boat needed in Kurla, five villagers stuck on the terrace since 6 pm.",Badlapur,Kurla,0,same_text_other_location,val
+"Boat needed in Badlapur, five villagers stuck on the terrace since 6 pm.","Rain has reduced in Badlapur, the situation is improving.",Badlapur,Badlapur,0,other_need_same_location,val
+"Boat needed in Chembur, 8 villagers stuck on the terrace since yesterday.","Repeat report: Boat needed in Chembur, 8 villagers stuck on the terrace since yesterday.",Chembur,Chembur,1,easy_positive,val
+"Boat needed in Chembur, 8 villagers stuck on the terrace since yesterday.","Boat needed in Badlapur, 8 villagers stuck on the terrace since yesterday.",Chembur,Badlapur,0,same_text_other_location,val
+"Boat needed in Chembur, 8 villagers stuck on the terrace since yesterday.",Please confirm if schools in Chembur will be closed tomorrow.,Chembur,Chembur,0,other_need_same_location,val
+"Boat needed in Ghatkopar, 15 villagers stuck on the terrace since 2 pm.","Repeat report: Boat needed in Ghatkopar, 15 vllagers stuck on the trrace since 2 pm.",Ghatkopar,Ghatkopar,1,easy_positive,val
+"Boat needed in Ghatkopar, 15 villagers stuck on the terrace since 2 pm.","Boat needed in Mumbra, 15 villagers stuck on the terrace since 2 pm.",Ghatkopar,Mumbra,0,same_text_other_location,val
+"Boat needed in Ghatkopar, 15 villagers stuck on the terrace since 2 pm.",We need medicines for diabetes and blood pressure at the Ghatkopar relief point.,Ghatkopar,Ghatkopar,0,other_need_same_location,val
+"Several people have deep cuts and fractures near Dombivli, need a medical team.","Repeat report: Several people have deep cuts and fractures near Dombivli, need a mdical team.",Dombivli,Dombivli,1,easy_positive,val
+"Several people have deep cuts and fractures near Dombivli, need a medical team.","Several people have deep cuts and fractures near Powai, need a medical team.",Dombivli,Powai,0,same_text_other_location,val
+"Several people have deep cuts and fractures near Dombivli, need a medical team.",Drainage overflowed and the underpass at Dombivli is completely flooded.,Dombivli,Dombivli,0,other_need_same_location,val
+We need medicines for diabetes and blood pressure at the Dadar relief point.,Repeat report: We need medicines for diabetes and blood pressure at the Dadr relef point.,Dadar,Dadar,1,easy_positive,val
+We need medicines for diabetes and blood pressure at the Dadar relief point.,We need medicines for diabetes and blood pressure at the Mumbra relief point.,Dadar,Mumbra,0,same_text_other_location,val
+We need medicines for diabetes and blood pressure at the Dadar relief point.,Drainage overflowed and the underpass at Dadar is completely flooded.,Dadar,Dadar,0,other_need_same_location,val
+We need medicines for diabetes and blood pressure at the Mumbra relief point.,Repeat report: We need medicines for diabetes and blood pressure at the Mumbra relief point.,Mumbra,Mumbra,1,easy_positive,val
+We need medicines for diabetes and blood pressure at the Mumbra relief point.,We need medicines for diabetes and blood pressure at the Kurla relief point.,Mumbra,Kurla,0,same_text_other_location,val
+We need medicines for diabetes and blood pressure at the Mumbra relief point.,"People at Mumbra want to move to higher ground, need transport and shelter.",Mumbra,Mumbra,0,other_need_same_location,val
+"Several people have deep cuts and fractures near Panvel, need a medical team.","Repeat report: Several people have deep cuts and fractures near Panvel, need a medical team.",Panvel,Panvel,1,easy_positive,val
+"Several people have deep cuts and fractures near Panvel, need a medical team.","Several people have deep cuts and fractures near Chembur, need a medical team.",Panvel,Chembur,0,same_text_other_location,val
+"Several people have deep cuts and fractures near Panvel, need a medical team.",Drainage overflowed and the underpass at Panvel is completely flooded.,Panvel,Panvel,0,other_need_same_location,val
+We need medicines for diabetes and blood pressure at the Mumbra relief point.,Repeaat report: We need medicines for diabetes and blood pressure at the Mubra relief point.,Mumbra,Mumbra,1,easy_positive,val
+We need medicines for diabetes and blood pressure at the Mumbra relief point.,We need medicines for diabetes and blood pressure at the Sion relief point.,Mumbra,Sion,0,same_text_other_location,val
+We need medicines for diabetes and blood pressure at the Mumbra relief point.,"Boat needed in Mumbra, 15 villagers stuck on the terrace since 6 pm.",Mumbra,Mumbra,0,other_need_same_location,val
+We need medicines for diabetes and blood pressure at the Bhiwandi relief point.,Repeat report: We need medicines for diabees and blood pressure at the Bhiwandi relef point.,Bhiwandi,Bhiwandi,1,easy_positive,val
+We need medicines for diabetes and blood pressure at the Bhiwandi relief point.,We need medicines for diabetes and blood pressure at the Bhandup relief point.,Bhiwandi,Bhandup,0,same_text_other_location,val
+We need medicines for diabetes and blood pressure at the Bhiwandi relief point.,Someone is drowning near the river bank at Bhiwandi. Send NDRF immediately.,Bhiwandi,Bhiwandi,0,other_need_same_location,val
+Need baby food and drinking water in Dombivli.,Repeat report: Need baby food and drinking water in Dombivli.,Dombivli,Dombivli,1,easy_positive,val
+Need baby food and drinking water in Dombivli.,Need baby food and drinking water in Sion.,Dombivli,Sion,0,same_text_other_location,val
+Need baby food and drinking water in Dombivli.,"Several people have deep cuts and fractures near Dombivli, need a medical team.",Dombivli,Dombivli,0,other_need_same_location,val
+Need baby food and drinking water in Badlapur.,Repeat report: Need baby food and drinking water in Badlapur.,Badlapur,Badlapur,1,easy_positive,val
+Need baby food and drinking water in Badlapur.,Need baby food and drinking water in Thane.,Badlapur,Thane,0,same_text_other_location,val
+Need baby food and drinking water in Badlapur.,"Electric pole fallen on the road at Badlapur, dangerous.",Badlapur,Badlapur,0,other_need_same_location,val
+Need baby food and drinking water in Kalyan.,Rpeat report: Need baby food and drinking watr in Kalyan.,Kalyan,Kalyan,1,easy_positive,val
+Need baby food and drinking water in Kalyan.,Need baby food and drinking water in Andheri.,Kalyan,Andheri,0,same_text_other_location,val
+Need baby food and drinking water in Kalyan.,"Several people have deep cuts and fractures near Kalyan, need a medical team.",Kalyan,Kalyan,0,other_need_same_location,val
+"Ration shortage at Kalyan, families have had no meal today.","Repeat report: Ratiion shortage at Kalyan, fammilies have had no meal today.",Kalyan,Kalyan,1,easy_positive,val
+"Ration shortage at Kalyan, families have had no meal today.","Ration shortage at Panvel, families have had no meal today.",Kalyan,Panvel,0,same_text_other_location,val
+"Ration shortage at Kalyan, families have had no meal today.",Someone is drowning near the river bank at Kalyan. Send NDRF immediately.,Kalyan,Kalyan,0,other_need_same_location,val
+Need baby food and drinking water in Powai.,Repeat report: Need baby food and drinking water in Powai.,Powai,Powai,1,easy_positive,val
+Need baby food and drinking water in Powai.,Need baby food and drinking water in Ulhasnagar.,Powai,Ulhasnagar,0,same_text_other_location,val
+Need baby food and drinking water in Powai.,"Several people have deep cuts and fractures near Powai, need a medical team.",Powai,Powai,0,other_need_same_location,val
+"Ration shortage at Vikhroli, families have had no meal today.","Repeat report: Ration shortage at Vikhroli, families have had no meal today.",Vikhroli,Vikhroli,1,easy_positive,val
+"Ration shortage at Vikhroli, families have had no meal today.","Ration shortage at Vashi, families have had no meal today.",Vikhroli,Vashi,0,same_text_other_location,val
+"Ration shortage at Vikhroli, families have had no meal today.","Our house is flooded, we need temporary shelter in Vikhroli.",Vikhroli,Vikhroli,0,other_need_same_location,val
+"People at Kalwa want to move to higher ground, need transport and shelter.","Repeat report: People at Kalwa want to move to higher ground, need transport and shelter.",Kalwa,Kalwa,1,easy_positive,val
+"People at Kalwa want to move to higher ground, need transport and shelter.","People at Mumbra want to move to higher ground, need transport and shelter.",Kalwa,Mumbra,0,same_text_other_location,val
+"People at Kalwa want to move to higher ground, need transport and shelter.",We need medicines for diabetes and blood pressure at the Kalwa relief point.,Kalwa,Kalwa,0,other_need_same_location,val
+"People at Ghatkopar want to move to higher ground, need transport and shelter.","Repeat report: People at Ghatkopar want to move to higgher ground, need transport and shelter.",Ghatkopar,Ghatkopar,1,easy_positive,val
+"People at Ghatkopar want to move to higher ground, need transport and shelter.","People at Chembur want to move to higher ground, need transport and shelter.",Ghatkopar,Chembur,0,same_text_other_location,val
+"People at Ghatkopar want to move to higher ground, need transport and shelter.",Please confirm if schools in Ghatkopar will be closed tomorrow.,Ghatkopar,Ghatkopar,0,other_need_same_location,val
+"Our house is flooded, we need temporary shelter in Thane.","Repeat report: Our houuse is flooded, we need temporary shelter in Thane.",Thane,Thane,1,easy_positive,val
+"Our house is flooded, we need temporary shelter in Thane.","Our house is flooded, we need temporary shelter in Dombivli.",Thane,Dombivli,0,same_text_other_location,val
+"Our house is flooded, we need temporary shelter in Thane.",Someone is drowning near the river bank at Thane. Send NDRF immediately.,Thane,Thane,0,other_need_same_location,val
+"People at Powai want to move to higher ground, need transport and shelter.","Repeat report: People at Powai want to move to higer ground, need transport and shelter.",Powai,Powai,1,easy_positive,val
+"People at Powai want to move to higher ground, need transport and shelter.","People at Bhiwandi want to move to higher ground, need transport and shelter.",Powai,Bhiwandi,0,same_text_other_location,val
+"People at Powai want to move to higher ground, need transport and shelter.","Ration shortage at Powai, families have had no meal today.",Powai,Powai,0,other_need_same_location,val
+"Our house is flooded, we need temporary shelter in Bhandup.","Repeat report: Our house is flooded, we need temporary shelter in Bhandup.",Bhandup,Bhandup,1,easy_positive,val
+"Our house is flooded, we need temporary shelter in Bhandup.","Our house is flooded, we need temporary shelter in Dombivli.",Bhandup,Dombivli,0,same_text_other_location,val
+"Our house is flooded, we need temporary shelter in Bhandup.",Someone is drowning near the river bank at Bhandup. Send NDRF immediately.,Bhandup,Bhandup,0,other_need_same_location,val
+"People at Bhiwandi want to move to higher ground, need transport and shelter.","Repeat report: People at Bhiwandi want to move to higher ground, need transport and shelter.",Bhiwandi,Bhiwandi,1,easy_positive,val
+"People at Bhiwandi want to move to higher ground, need transport and shelter.","People at Bhandup want to move to higher ground, need transport and shelter.",Bhiwandi,Bhandup,0,same_text_other_location,val
+"People at Bhiwandi want to move to higher ground, need transport and shelter.","Ration shortage at Bhiwandi, families have had no meal today.",Bhiwandi,Bhiwandi,0,other_need_same_location,val
+Drainage overflowed and the underpass at Sion is completely flooded.,Repeat report: Drainage ovrflowed and the underpass at Sion is completely flooded.,Sion,Sion,1,easy_positive,val
+Drainage overflowed and the underpass at Sion is completely flooded.,Drainage overflowed and the underpass at Dadar is completely flooded.,Sion,Dadar,0,same_text_other_location,val
+Drainage overflowed and the underpass at Sion is completely flooded.,"People at Sion want to move to higher ground, need transport and shelter.",Sion,Sion,0,other_need_same_location,val
+"Electric pole fallen on the road at Badlapur, dangerous.","Repeat report: Electric pole falln on the road at Badlapur, dangerous.",Badlapur,Badlapur,1,easy_positive,val
+"Electric pole fallen on the road at Badlapur, dangerous.","Electric pole fallen on the road at Panvel, dangerous.",Badlapur,Panvel,0,same_text_other_location,val
+"Electric pole fallen on the road at Badlapur, dangerous.",Please confirm if schools in Badlapur will be closed tomorrow.,Badlapur,Badlapur,0,other_need_same_location,val
+"Electric pole fallen on the road at Vikhroli, dangerous.","Repeat report: Electtric pole falllen on the road at Vikhroli, dangerous.",Vikhroli,Vikhroli,1,easy_positive,val
+"Electric pole fallen on the road at Vikhroli, dangerous.","Electric pole fallen on the road at Vashi, dangerous.",Vikhroli,Vashi,0,same_text_other_location,val
+"Electric pole fallen on the road at Vikhroli, dangerous.","People at Vikhroli want to move to higher ground, need transport and shelter.",Vikhroli,Vikhroli,0,other_need_same_location,val
+"Electric pole fallen on the road at Andheri, dangerous.","Repeat report: Electric pole fallen on the road at Andheri, dangerous.",Andheri,Andheri,1,easy_positive,val
+"Electric pole fallen on the road at Andheri, dangerous.","Electric pole fallen on the road at Ulhasnagar, dangerous.",Andheri,Ulhasnagar,0,same_text_other_location,val
+"Electric pole fallen on the road at Andheri, dangerous.",Someone is drowning near the river bank at Andheri. Send NDRF immediately.,Andheri,Andheri,0,other_need_same_location,val
+Drainage overflowed and the underpass at Chembur is completely flooded.,Repeat report: Drainage overflowed and the underpass at Chmbur is completely flooded.,Chembur,Chembur,1,easy_positive,val
+Drainage overflowed and the underpass at Chembur is completely flooded.,Drainage overflowed and the underpass at Sion is completely flooded.,Chembur,Sion,0,same_text_other_location,val
+Drainage overflowed and the underpass at Chembur is completely flooded.,Please confirm if schools in Chembur will be closed tomorrow.,Chembur,Chembur,0,other_need_same_location,val
+"Electric pole fallen on the road at Bhiwandi, dangerous.","Repeat report: Electric pole fallen on the road at Bhiwandi, dangerous.",Bhiwandi,Bhiwandi,1,easy_positive,val
+"Electric pole fallen on the road at Bhiwandi, dangerous.","Electric pole fallen on the road at Badlapur, dangerous.",Bhiwandi,Badlapur,0,same_text_other_location,val
+"Electric pole fallen on the road at Bhiwandi, dangerous.","Boat needed in Bhiwandi, five villagers stuck on the terrace since yesterday.",Bhiwandi,Bhiwandi,0,other_need_same_location,val
+Please confirm if schools in Dombivli will be closed tomorrow.,Repeat report: Please confirm if schools in Dombivli will be clsed tomorrow.,Dombivli,Dombivli,1,easy_positive,val
+Please confirm if schools in Dombivli will be closed tomorrow.,Please confirm if schools in Badlapur will be closed tomorrow.,Dombivli,Badlapur,0,same_text_other_location,val
+Please confirm if schools in Dombivli will be closed tomorrow.,"Electric pole fallen on the road at Dombivli, dangerous.",Dombivli,Dombivli,0,other_need_same_location,val
+Please confirm if schools in Sion will be closed tomorrow.,Rpeat report: Please confirm if schools in Sion will be closed tomorrow.,Sion,Sion,1,easy_positive,val
+Please confirm if schools in Sion will be closed tomorrow.,Please confirm if schools in Vikhroli will be closed tomorrow.,Sion,Vikhroli,0,same_text_other_location,val
+Please confirm if schools in Sion will be closed tomorrow.,"Electric pole fallen on the road at Sion, dangerous.",Sion,Sion,0,other_need_same_location,val
+"Rain has reduced in Vikhroli, the situation is improving.","Repeat report: Rain has reduced in Vikhroli, the situation is improving.",Vikhroli,Vikhroli,1,easy_positive,val
+"Rain has reduced in Vikhroli, the situation is improving.","Rain has reduced in Badlapur, the situation is improving.",Vikhroli,Badlapur,0,same_text_other_location,val
+"Rain has reduced in Vikhroli, the situation is improving.","Boat needed in Vikhroli, 12 villagers stuck on the terrace since this morning.",Vikhroli,Vikhroli,0,other_need_same_location,val
+"Rain has reduced in Kalwa, the situation is improving.","Repeat report: Rain has reduced in Kalwa, the situaion is improving.",Kalwa,Kalwa,1,easy_positive,val
+"Rain has reduced in Kalwa, the situation is improving.","Rain has reduced in Kurla, the situation is improving.",Kalwa,Kurla,0,same_text_other_location,val
+"Rain has reduced in Kalwa, the situation is improving.",Drainage overflowed and the underpass at Kalwa is completely flooded.,Kalwa,Kalwa,0,other_need_same_location,val
+Please confirm if schools in Bhandup will be closed tomorrow.,Repeat report: Please confirm if schools in Bhandup will be closed tomorrow.,Bhandup,Bhandup,1,easy_positive,val
+Please confirm if schools in Bhandup will be closed tomorrow.,Please confirm if schools in Sion will be closed tomorrow.,Bhandup,Sion,0,same_text_other_location,val
+Please confirm if schools in Bhandup will be closed tomorrow.,"People at Bhandup want to move to higher ground, need transport and shelter.",Bhandup,Bhandup,0,other_need_same_location,val
+Please confirm if schools in Bhiwandi will be closed tomorrow.,Repeat report: Please confirm if shools in Bhiwandi will be closed tomorrow.,Bhiwandi,Bhiwandi,1,easy_positive,val
+Please confirm if schools in Bhiwandi will be closed tomorrow.,Please confirm if schools in Andheri will be closed tomorrow.,Bhiwandi,Andheri,0,same_text_other_location,val
+Please confirm if schools in Bhiwandi will be closed tomorrow.,Drainage overflowed and the underpass at Bhiwandi is completely flooded.,Bhiwandi,Bhiwandi,0,other_need_same_location,val
+"Landslide has buried a house at Ghatkopar, people may be trapped under the debris.","Repeat report: Landslide has buried a house at Ghatkopar, peoople may be trapped under the debris.",Ghatkopar,Ghatkopar,1,easy_positive,test
+"Landslide has buried a house at Ghatkopar, people may be trapped under the debris.","Landslide has buried a house at Mumbra, people may be trapped under the debris.",Ghatkopar,Mumbra,0,same_text_other_location,test
+"Landslide has buried a house at Ghatkopar, people may be trapped under the debris.","Please evacuate the old age home in Ghatkopar, residents cannot stay.",Ghatkopar,Ghatkopar,0,other_need_same_location,test
+"Landslide has buried a house at Vashi, people may be trapped under the debris.","Repeat report: Landslie has buried a house at Vashi, people may be trapped under the debris.",Vashi,Vashi,1,easy_positive,test
+"Landslide has buried a house at Vashi, people may be trapped under the debris.","Landslide has buried a house at Thane, people may be trapped under the debris.",Vashi,Thane,0,same_text_other_location,test
+"Landslide has buried a house at Vashi, people may be trapped under the debris.",Homeless families at Vashi need dry clothes and mattresses at the relief camp.,Vashi,Vashi,0,other_need_same_location,test
+"Kids are alone and trapped in a flooded building in Kalyan, please send rescuers.","Repeat report: Kids are alone and tapped in a flooded building in Kalyan, pleasse send rescuers.",Kalyan,Kalyan,1,easy_positive,test
+"Kids are alone and trapped in a flooded building in Kalyan, please send rescuers.","Kids are alone and trapped in a flooded building in Powai, please send rescuers.",Kalyan,Powai,0,same_text_other_location,test
+"Kids are alone and trapped in a flooded building in Kalyan, please send rescuers.",Homeless families at Kalyan need dry clothes and mattresses at the relief camp.,Kalyan,Kalyan,0,other_need_same_location,test
+"Kids are alone and trapped in a flooded building in Dombivli, please send rescuers.","Repeat report: Kids are alone and trapped in a flooded building in Dombivli, please send rescuers.",Dombivli,Dombivli,1,easy_positive,test
+"Kids are alone and trapped in a flooded building in Dombivli, please send rescuers.","Kids are alone and trapped in a flooded building in Kalwa, please send rescuers.",Dombivli,Kalwa,0,same_text_other_location,test
+"Kids are alone and trapped in a flooded building in Dombivli, please send rescuers.","Injured man bleeding badly at Dombivli, please send an ambulance.",Dombivli,Dombivli,0,other_need_same_location,test
+"Kids are alone and trapped in a flooded building in Bhandup, please send rescuers.","Repeat report: Kids are alone and trapped in a floded building in Bhandup, please send rescuers.",Bhandup,Bhandup,1,easy_positive,test
+"Kids are alone and trapped in a flooded building in Bhandup, please send rescuers.","Kids are alone and trapped in a flooded building in Kurla, please send rescuers.",Bhandup,Kurla,0,same_text_other_location,test
+"Kids are alone and trapped in a flooded building in Bhandup, please send rescuers.",Relief trucks have reached Bhandup and distribution has started.,Bhandup,Bhandup,0,other_need_same_location,test
+"Landslide has buried a house at Bhiwandi, people may be trapped under the debris.","Repeat report: Landslide has buied a house at Bhiwandi, pople may be trapped under the debris.",Bhiwandi,Bhiwandi,1,easy_positive,test
+"Landslide has buried a house at Bhiwandi, people may be trapped under the debris.","Landslide has buried a house at Kalwa, people may be trapped under the debris.",Bhiwandi,Kalwa,0,same_text_other_location,test
+"Landslide has buried a house at Bhiwandi, people may be trapped under the debris.","Injured man bleeding badly at Bhiwandi, please send an ambulance.",Bhiwandi,Bhiwandi,0,other_need_same_location,test
+"Injured man bleeding badly at Bhiwandi, please send an ambulance.","Repeat report: Injured man bleeding badly at Bhiwandi, please send an ambulance.",Bhiwandi,Bhiwandi,1,easy_positive,test
+"Injured man bleeding badly at Bhiwandi, please send an ambulance.","Injured man bleeding badly at Vikhroli, please send an ambulance.",Bhiwandi,Vikhroli,0,same_text_other_location,test
+"Injured man bleeding badly at Bhiwandi, please send an ambulance.","Requesting water tankers at Bhiwandi, no safe water for two days.",Bhiwandi,Bhiwandi,0,other_need_same_location,test
+"Injured man bleeding badly at Thane, please send an ambulance.","Repat report: Injured man bleeeding badly at Thane, please send an ambulance.",Thane,Thane,1,easy_positive,test
+"Injured man bleeding badly at Thane, please send an ambulance.","Injured man bleeding badly at Ulhasnagar, please send an ambulance.",Thane,Ulhasnagar,0,same_text_other_location,test
+"Injured man bleeding badly at Thane, please send an ambulance.","We are safe in Thane, thank you everyone for the support.",Thane,Thane,0,other_need_same_location,test
+"Many children have fever and diarrhoea in Badlapur, please send a medical camp.","Repeat report: Many children have fever and diarrhoea in Badlapur, please send a medical camp.",Badlapur,Badlapur,1,easy_positive,test
+"Many children have fever and diarrhoea in Badlapur, please send a medical camp.","Many children have fever and diarrhoea in Ulhasnagar, please send a medical camp.",Badlapur,Ulhasnagar,0,same_text_other_location,test
+"Many children have fever and diarrhoea in Badlapur, please send a medical camp.","Hungry since morning, 20 people at Badlapur need food urgently.",Badlapur,Badlapur,0,other_need_same_location,test
+"Many children have fever and diarrhoea in Badlapur, please send a medical camp.","Repeat report: Many children have fever and diarrhoea in Badlapur, please send a medical camp.",Badlapur,Badlapur,1,easy_positive,test
+"Many children have fever and diarrhoea in Badlapur, please send a medical camp.","Many children have fever and diarrhoea in Kalyan, please send a medical camp.",Badlapur,Kalyan,0,same_text_other_location,test
+"Many children have fever and diarrhoea in Badlapur, please send a medical camp.","Railway tracks at Badlapur are under water, trains cancelled.",Badlapur,Badlapur,0,other_need_same_location,test
+"Many children have fever and diarrhoea in Vikhroli, please send a medical camp.","Repeat report: Many children have fever and diarhoea in Vikhroli, please send a medical camp.",Vikhroli,Vikhroli,1,easy_positive,test
+"Many children have fever and diarrhoea in Vikhroli, please send a medical camp.","Many children have fever and diarrhoea in Ulhasnagar, please send a medical camp.",Vikhroli,Ulhasnagar,0,same_text_other_location,test
+"Many children have fever and diarrhoea in Vikhroli, please send a medical camp.","Please evacuate the old age home in Vikhroli, residents cannot stay.",Vikhroli,Vikhroli,0,other_need_same_location,test
+"Many children have fever and diarrhoea in Andheri, please send a medical camp.","Repet report: Many children have fever and diarrhoea in Andheri, please send a mediccal camp.",Andheri,Andheri,1,easy_positive,test
+"Many children have fever and diarrhoea in Andheri, please send a medical camp.","Many children have fever and diarrhoea in Bhandup, please send a medical camp.",Andheri,Bhandup,0,same_text_other_location,test
+"Many children have fever and diarrhoea in Andheri, please send a medical camp.","Hungry since morning, 15 people at Andheri need food urgently.",Andheri,Andheri,0,other_need_same_location,test
+"Requesting water tankers at Thane, no safe water for two days.","Repeat report: Requestiing water tankers at Thane, no safe water for two days.",Thane,Thane,1,easy_positive,test
+"Requesting water tankers at Thane, no safe water for two days.","Requesting water tankers at Kurla, no safe water for two days.",Thane,Kurla,0,same_text_other_location,test
+"Requesting water tankers at Thane, no safe water for two days.","Please evacuate the old age home in Thane, residents cannot stay.",Thane,Thane,0,other_need_same_location,test
+"Requesting water tankers at Vashi, no safe water for two days.","Repeat report: Requesting water tankers at Vashi, no safe water for two days.",Vashi,Vashi,1,easy_positive,test
+"Requesting water tankers at Vashi, no safe water for two days.","Requesting water tankers at Kalwa, no safe water for two days.",Vashi,Kalwa,0,same_text_other_location,test
+"Requesting water tankers at Vashi, no safe water for two days.","Injured man bleeding badly at Vashi, please send an ambulance.",Vashi,Vashi,0,other_need_same_location,test
+"Requesting water tankers at Sion, no safe water for two days.","Repeat report: Requesting water tankeers at Sion, no safe water for two days.",Sion,Sion,1,easy_positive,test
+"Requesting water tankers at Sion, no safe water for two days.","Requesting water tankers at Vashi, no safe water for two days.",Sion,Vashi,0,same_text_other_location,test
+"Requesting water tankers at Sion, no safe water for two days.","Landslide has buried a house at Sion, people may be trapped under the debris.",Sion,Sion,0,other_need_same_location,test
+"Requesting water tankers at Vikhroli, no safe water for two days.","Repeat report: Requesting water tankers at Vikhroli, no safe water for two days.",Vikhroli,Vikhroli,1,easy_positive,test
+"Requesting water tankers at Vikhroli, no safe water for two days.","Requesting water tankers at Kalyan, no safe water for two days.",Vikhroli,Kalyan,0,same_text_other_location,test
+"Requesting water tankers at Vikhroli, no safe water for two days.","Injured man bleeding badly at Vikhroli, please send an ambulance.",Vikhroli,Vikhroli,0,other_need_same_location,test
+"Hungry since morning, five people at Vashi need food urgently.","Repeat report: Hungry since morning, five peoople at Vashi need food urgently.",Vashi,Vashi,1,easy_positive,test
+"Hungry since morning, five people at Vashi need food urgently.","Hungry since morning, five people at Badlapur need food urgently.",Vashi,Badlapur,0,same_text_other_location,test
+"Hungry since morning, five people at Vashi need food urgently.","Injured man bleeding badly at Vashi, please send an ambulance.",Vashi,Vashi,0,other_need_same_location,test
+"Requesting water tankers at Bhandup, no safe water for two days.","Repeat report: Requesting water tankkers at Bhandup, no safe water for two days.",Bhandup,Bhandup,1,easy_positive,test
+"Requesting water tankers at Bhandup, no safe water for two days.","Requesting water tankers at Vashi, no safe water for two days.",Bhandup,Vashi,0,same_text_other_location,test
+"Requesting water tankers at Bhandup, no safe water for two days.","Please evacuate the old age home in Bhandup, residents cannot stay.",Bhandup,Bhandup,0,other_need_same_location,test
+Homeless families at Chembur need dry clothes and mattresses at the relief camp.,Repeat report: Hommeless failies at Chembur need dry clothes and mattrsses at the relief camp.,Chembur,Chembur,1,easy_positive,test
+Homeless families at Chembur need dry clothes and mattresses at the relief camp.,Homeless families at Vashi need dry clothes and mattresses at the relief camp.,Chembur,Vashi,0,same_text_other_location,test
+Homeless families at Chembur need dry clothes and mattresses at the relief camp.,"Many children have fever and diarrhoea in Chembur, please send a medical camp.",Chembur,Chembur,0,other_need_same_location,test
+"Please evacuate the old age home in Andheri, residents cannot stay.","Repeat report: Please evauate the old age home in Andheri, residents caannot stay.",Andheri,Andheri,1,easy_positive,test
+"Please evacuate the old age home in Andheri, residents cannot stay.","Please evacuate the old age home in Kalyan, residents cannot stay.",Andheri,Kalyan,0,same_text_other_location,test
+"Please evacuate the old age home in Andheri, residents cannot stay.","We are safe in Andheri, thank you everyone for the support.",Andheri,Andheri,0,other_need_same_location,test
+Homeless families at Powai need dry clothes and mattresses at the relief camp.,Repeat report: Homless families at Poai need dry clothes and mattresses at the relief camp.,Powai,Powai,1,easy_positive,test
+Homeless families at Powai need dry clothes and mattresses at the relief camp.,Homeless families at Sion need dry clothes and mattresses at the relief camp.,Powai,Sion,0,same_text_other_location,test
+Homeless families at Powai need dry clothes and mattresses at the relief camp.,"Railway tracks at Powai are under water, trains cancelled.",Powai,Powai,0,other_need_same_location,test
+"Please evacuate the old age home in Powai, residents cannot stay.","Repeat report: Please evacuate the old age home in Powai, residents cannot stay.",Powai,Powai,1,easy_positive,test
+"Please evacuate the old age home in Powai, residents cannot stay.","Please evacuate the old age home in Bhandup, residents cannot stay.",Powai,Bhandup,0,same_text_other_location,test
+"Please evacuate the old age home in Powai, residents cannot stay.","Railway tracks at Powai are under water, trains cancelled.",Powai,Powai,0,other_need_same_location,test
+Homeless families at Andheri need dry clothes and mattresses at the relief camp.,Repeat report: Homeless families at Andheri need dry clothes and mattresses at the relief camp.,Andheri,Andheri,1,easy_positive,test
+Homeless families at Andheri need dry clothes and mattresses at the relief camp.,Homeless families at Kurla need dry clothes and mattresses at the relief camp.,Andheri,Kurla,0,same_text_other_location,test
+Homeless families at Andheri need dry clothes and mattresses at the relief camp.,"Landslide has buried a house at Andheri, people may be trapped under the debris.",Andheri,Andheri,0,other_need_same_location,test
+"Please evacuate the old age home in Dadar, residents cannot stay.","Repeat report: Please evacate the old age home in Dadar, residents cannot stay.",Dadar,Dadar,1,easy_positive,test
+"Please evacuate the old age home in Dadar, residents cannot stay.","Please evacuate the old age home in Thane, residents cannot stay.",Dadar,Thane,0,same_text_other_location,test
+"Please evacuate the old age home in Dadar, residents cannot stay.","We are safe in Dadar, thank you everyone for the support.",Dadar,Dadar,0,other_need_same_location,test
+"A tree fell on power lines in Badlapur, the street is blocked.","Repeat report: A tree fell on poower lines in Badlapur, the street is blocked.",Badlapur,Badlapur,1,easy_positive,test
+"A tree fell on power lines in Badlapur, the street is blocked.","A tree fell on power lines in Andheri, the street is blocked.",Badlapur,Andheri,0,same_text_other_location,test
+"A tree fell on power lines in Badlapur, the street is blocked.","Landslide has buried a house at Badlapur, people may be trapped under the debris.",Badlapur,Badlapur,0,other_need_same_location,test
+"Railway tracks at Dombivli are under water, trains cancelled.","Repeat report: Ralway tracks at Dombivli are under water, trains cancelled.",Dombivli,Dombivli,1,easy_positive,test
+"Railway tracks at Dombivli are under water, trains cancelled.","Railway tracks at Andheri are under water, trains cancelled.",Dombivli,Andheri,0,same_text_other_location,test
+"Railway tracks at Dombivli are under water, trains cancelled.","Landslide has buried a house at Dombivli, people may be trapped under the debris.",Dombivli,Dombivli,0,other_need_same_location,test
+"A tree fell on power lines in Badlapur, the street is blocked.","Repeat report: A tree fell on power lines in Badlapur, the street is blocked.",Badlapur,Badlapur,1,easy_positive,test
+"A tree fell on power lines in Badlapur, the street is blocked.","A tree fell on power lines in Sion, the street is blocked.",Badlapur,Sion,0,same_text_other_location,test
+"A tree fell on power lines in Badlapur, the street is blocked.","Injured man bleeding badly at Badlapur, please send an ambulance.",Badlapur,Badlapur,0,other_need_same_location,test
+"A tree fell on power lines in Vikhroli, the street is blocked.","Repeat report: A tree fell on power lines in Vikhroli, the street is blocked.",Vikhroli,Vikhroli,1,easy_positive,test
+"A tree fell on power lines in Vikhroli, the street is blocked.","A tree fell on power lines in Andheri, the street is blocked.",Vikhroli,Andheri,0,same_text_other_location,test
+"A tree fell on power lines in Vikhroli, the street is blocked.",Relief trucks have reached Vikhroli and distribution has started.,Vikhroli,Vikhroli,0,other_need_same_location,test
+"A tree fell on power lines in Dadar, the street is blocked.","Reppeat report: A tree fell on power lines in Dadar, the street is blocked.",Dadar,Dadar,1,easy_positive,test
+"A tree fell on power lines in Dadar, the street is blocked.","A tree fell on power lines in Chembur, the street is blocked.",Dadar,Chembur,0,same_text_other_location,test
+"A tree fell on power lines in Dadar, the street is blocked.","Kids are alone and trapped in a flooded building in Dadar, please send rescuers.",Dadar,Dadar,0,other_need_same_location,test
+"Railway tracks at Kalwa are under water, trains cancelled.","Repeat report: Railway traks at Kalwa are under water, trains cancelled.",Kalwa,Kalwa,1,easy_positive,test
+"Railway tracks at Kalwa are under water, trains cancelled.","Railway tracks at Chembur are under water, trains cancelled.",Kalwa,Chembur,0,same_text_other_location,test
+"Railway tracks at Kalwa are under water, trains cancelled.","Hungry since morning, 8 people at Kalwa need food urgently.",Kalwa,Kalwa,0,other_need_same_location,test
+"We are safe in Bhiwandi, thank you everyone for the support.","Repeat report: We are safe in Bhiwandi, thank you everyonne for the support.",Bhiwandi,Bhiwandi,1,easy_positive,test
+"We are safe in Bhiwandi, thank you everyone for the support.","We are safe in Vikhroli, thank you everyone for the support.",Bhiwandi,Vikhroli,0,same_text_other_location,test
+"We are safe in Bhiwandi, thank you everyone for the support.","Many children have fever and diarrhoea in Bhiwandi, please send a medical camp.",Bhiwandi,Bhiwandi,0,other_need_same_location,test
+Relief trucks have reached Ghatkopar and distribution has started.,Repeat report: Relief trucks have reached Ghatkopar and distribution has started.,Ghatkopar,Ghatkopar,1,easy_positive,test
+Relief trucks have reached Ghatkopar and distribution has started.,Relief trucks have reached Chembur and distribution has started.,Ghatkopar,Chembur,0,same_text_other_location,test
+Relief trucks have reached Ghatkopar and distribution has started.,"Please evacuate the old age home in Ghatkopar, residents cannot stay.",Ghatkopar,Ghatkopar,0,other_need_same_location,test
+"We are safe in Mulund, thank you everyone for the support.","Repeat report: We are safe in Mulund, thank you everyone for the support.",Mulund,Mulund,1,easy_positive,test
+"We are safe in Mulund, thank you everyone for the support.","We are safe in Bhandup, thank you everyone for the support.",Mulund,Bhandup,0,same_text_other_location,test
+"We are safe in Mulund, thank you everyone for the support.","Please evacuate the old age home in Mulund, residents cannot stay.",Mulund,Mulund,0,other_need_same_location,test
+Relief trucks have reached Vikhroli and distribution has started.,Repeat report: Relief trucks have reached Vikhroli and distribution has started.,Vikhroli,Vikhroli,1,easy_positive,test
+Relief trucks have reached Vikhroli and distribution has started.,Relief trucks have reached Bhandup and distribution has started.,Vikhroli,Bhandup,0,same_text_other_location,test
+Relief trucks have reached Vikhroli and distribution has started.,"Railway tracks at Vikhroli are under water, trains cancelled.",Vikhroli,Vikhroli,0,other_need_same_location,test
+Relief trucks have reached Bhandup and distribution has started.,Repeat report: Relief trucks have reached Bhandup and dstribution has started.,Bhandup,Bhandup,1,easy_positive,test
+Relief trucks have reached Bhandup and distribution has started.,Relief trucks have reached Badlapur and distribution has started.,Bhandup,Badlapur,0,same_text_other_location,test
+Relief trucks have reached Bhandup and distribution has started.,"Injured man bleeding badly at Bhandup, please send an ambulance.",Bhandup,Bhandup,0,other_need_same_location,test
+Relief trucks have reached Ghatkopar and distribution has started.,Repeat report: Relief trucks have reeached Ghatkopar and disribution has started.,Ghatkopar,Ghatkopar,1,easy_positive,test
+Relief trucks have reached Ghatkopar and distribution has started.,Relief trucks have reached Bhandup and distribution has started.,Ghatkopar,Bhandup,0,same_text_other_location,test
+Relief trucks have reached Ghatkopar and distribution has started.,"Injured man bleeding badly at Ghatkopar, please send an ambulance.",Ghatkopar,Ghatkopar,0,other_need_same_location,test
+"Five people stuck on a rooftop in Kalwa, need a boat urgently.","Boat required at Kalwa, 5 persons stranded on the terrace.",Kalwa,Kalwa,1,paraphrase,val
+"Pregnant woman in labour at Mulund, no ambulance reachable.",Need ambulance in Mulund for a woman about to deliver a baby.,Mulund,Mulund,1,paraphrase,test
+No drinking water in Kurla since last night.,Kurla has had no clean water since yesterday evening.,Kurla,Kurla,1,paraphrase,val
+Bridge near Dadar has collapsed and the road is closed.,"Dadar bridge broke down, traffic cannot pass.",Dadar,Dadar,1,paraphrase,test
+We need blankets and tents at the Thane relief camp.,"Thane camp requires tents and blankets, it is cold.",Thane,Thane,1,paraphrase,val
+"Elderly man had a heart attack in Sion, need a doctor.","Old man with chest pain and heart attack in Sion, send a doctor.",Sion,Sion,1,paraphrase,test
+Need food packets for 20 people in Vashi.,"Twenty people in Vashi have nothing to eat, send food.",Vashi,Vashi,1,paraphrase,val
+Electric pole fallen on the road at Powai.,A power pole has fallen across the road in Powai.,Powai,Powai,1,paraphrase,test
+"Five people stuck on a rooftop in Kalwa, need a boat urgently.","Five people stuck on a rooftop in Mumbra, need a boat urgently.",Kalwa,Mumbra,0,hand_negative,val
+No drinking water in Kurla since last night.,"Pregnant woman in labour at Kurla, no ambulance reachable.",Kurla,Kurla,0,hand_negative,test
+Need food packets for 20 people in Vashi.,Need food packets for 20 people in Panvel.,Vashi,Panvel,0,hand_negative,val
+Bridge near Dadar has collapsed.,Is the road to Dadar open for traffic?,Dadar,Dadar,0,hand_negative,test
+Need blankets at the Thane relief camp.,Need blankets at the Kalyan relief camp.,Thane,Kalyan,0,hand_negative,val
+Elderly man had a heart attack in Sion.,Elderly couple trapped in their house in Sion.,Sion,Sion,0,hand_negative,test
